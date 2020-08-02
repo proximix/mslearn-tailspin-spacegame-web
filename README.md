@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/mvpags/Learn%20Azure/_apis/build/status/proximix.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/mvpags/Learn%20Azure/_build/latest?definitionId=5&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
